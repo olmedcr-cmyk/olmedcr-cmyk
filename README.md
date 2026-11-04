@@ -6,6 +6,13 @@ Diseñador e ingeniero. Fundador y director creativo de **[Divina Machina](https
 
 Trabajo con **inteligencia artificial, voz, objetos y narración** para investigar cómo nos relacionamos con la tecnología. Diseñar una inteligencia es darle una voz y una manera de estar: qué recuerda, cómo escucha, cuándo interviene y qué relación propone.
 
+## 💼 Ahora mismo
+- **Director creativo y Head of Design** en [Divina Machina](https://www.divinamachina.com)
+- **Cultural Partner** de [ElevenLabs](https://elevenlabs.io)
+- **Product Designer** en Vidiv
+- **Innovation Specialist** en ReservaEntradas
+- **Diseño y producto** en Visual MS
+
 ## 🔭 En qué trabajo
 
 - **Interfaces conversacionales y de voz**: agentes con personalidad, tono, ritmo y memoria.
