@@ -12,6 +12,7 @@ Trabajo con **inteligencia artificial, voz, objetos y narración** para investig
 - **Product Designer** en Vidiv
 - **Innovation Specialist** en ReservaEntradas
 - **Diseño y producto** en Visual MS
+- 🏆 **Premio Chile Diseño 2025**
 
 ## 🔭 En qué trabajo
 
