@@ -9,6 +9,7 @@ Trabajo con **inteligencia artificial, voz, objetos y narración** para investig
 ## 💼 Ahora mismo
 - **Director creativo y Head of Design** en [Divina Machina](https://www.divinamachina.com)
 - **Cultural Partner** de [ElevenLabs](https://elevenlabs.io)
+- **Cultural Partner** de [Decart](https://decart.ai)
 - **Product Designer** en Vidiv
 - **Innovation Specialist** en ReservaEntradas
 - **Diseño y producto** en Visual MS
